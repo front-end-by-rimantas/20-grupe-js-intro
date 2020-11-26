@@ -12,6 +12,10 @@ kintamuju tipai:
 - logine reiksme (boolean)
 - sarasas/masyvas (array)
 
+kintamuju tipas (atminties atzvilgiu):
+- primityvi reiksme
+- kompleksine reiksme
+
 */
 
 const vardas = 'Vardenis';
