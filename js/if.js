@@ -94,3 +94,11 @@ if (day === 'mon') {
 } else {
     console.log('Not a week day... 🤔');
 }
+
+console.clear();
+
+if (0 === false) {
+    console.log('POzityvas');
+} else {
+    console.log('NEgatyvas');
+}
