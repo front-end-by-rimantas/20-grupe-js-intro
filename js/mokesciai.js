@@ -17,14 +17,14 @@ function mokesciai(pajamos) {
 }
 
 
-const pajamos1 = [100, 500, 800, 5000, 15000];
-const mokesciai1 = mokesciai(pajamos1);
-console.log('Pirmasis susimoka:', mokesciai1);
+const asmens1uzdarbiai = [100, 500, 800, 5000, 15000];
+const asmens1mokesciai = mokesciai(asmens1uzdarbiai);
+console.log('Pirmasis susimoka:', asmens1mokesciai);
 
-const pajamos2 = [100, 500, 200];
-const mokesciai2 = mokesciai(pajamos2);
-console.log('Antrasis susimoka:', mokesciai2);
+const asmens2uzdarbiai = [100, 500, 200];
+const asmens2mokesciai = mokesciai(asmens2uzdarbiai);
+console.log('Antrasis susimoka:', asmens2mokesciai);
 
-const pajamos3 = [10000, 10000, 10000, 10000, 10000, 10000];
-const mokesciai3 = mokesciai(pajamos3);
-console.log('Treciasis susimoka:', mokesciai3);
+const asmens3uzdarbiai = [10000, 10000, 10000, 10000, 10000, 10000];
+const asmens3mokesciai = mokesciai(asmens3uzdarbiai);
+console.log('Treciasis susimoka:', asmens3mokesciai);
