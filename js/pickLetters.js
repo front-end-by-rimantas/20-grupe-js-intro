@@ -50,3 +50,6 @@ console.log(pickLetters('abcdefg', 2), '->', 'bdf');
 console.log(pickLetters('abcdefghijkl', 3), '->', 'cfil');
 
 console.log('-----------');
+
+// console.log(pickLetters('abcdefg', -2), '->', 'fdb');
+// console.log(pickLetters('abcdefghijkl', -3), '->', 'jgda');
